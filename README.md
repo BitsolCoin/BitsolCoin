@@ -2,7 +2,7 @@ $Bitsol is the first pump.fun token launched on Solana through Bitcoin using Zeu
 
 If you don't want to read everything below, long story short... we used Zeus Network's protocols to deploy the first pump.fun token on Solana.
 
-CA: 
+CA: 7qAo25aceEp9BBATGAdNojwcEf8cuFnmmXpTSUDepump
 Transaction: 
 
 
